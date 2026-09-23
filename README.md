@@ -2,7 +2,7 @@
 
 <img src="assets/hero-banner.png" width="100%" alt="Islam Badawi banner"/>
 
-# Islam Badawi 👋
+# Islam Badawi 🤓 
 
 ### Android Developer · Data Analyst · AI Enthusiast
 
@@ -38,27 +38,27 @@ Hi! I'm **Islam Badawi**, a developer who loves turning ideas into real solution
 
 ---
 
-## 🧩 What I Work With
+##  What I Work With
 
 <table>
 <tr>
 <td width="25%" valign="top">
 
-### 📱 Android
+###  Android
 
 Kotlin, Android Studio, Jetpack Compose, Material 3, SQLite and modern Android architecture.
 
 </td>
 <td width="25%" valign="top">
 
-### 📊 Data
+###  Data
 
 Python, Pandas, NumPy, SQL, Excel, Power BI and data visualization.
 
 </td>
 <td width="25%" valign="top">
 
-### 🤖 AI
+###  AI
 
 Artificial intelligence, machine learning, NLP, AI APIs and automation.
 
@@ -75,7 +75,7 @@ Git, GitHub, Linux, Docker, VS Code and clean-code practices.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### 📱 Mobile Development
 <p><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,sqlite&theme=dark" alt="Android technologies"/></p>
@@ -83,7 +83,7 @@ Git, GitHub, Linux, Docker, VS Code and clean-code practices.
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
 </p>
 
-### 📊 Data Analysis
+### Data Analysis
 <p><img src="https://skillicons.dev/icons?i=py,postgres,mysql&theme=dark" alt="Data technologies"/></p>
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -93,44 +93,44 @@ Git, GitHub, Linux, Docker, VS Code and clean-code practices.
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
 </p>
 
-### 🤖 AI & Automation
+###  AI & Automation
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI technologies"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
-### 🛠️ Tools
+###  Tools
 <p><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" alt="Developer tools"/></p>
 
 ---
 
-## 🎯 Skills & Levels
+##  Skills & Levels
 
 <sub>Self-assessed levels, updated as I complete more projects — not a certification.</sub>
 
 **Data & Databases**
 <br/>
-<img src="https://img.shields.io/badge/Excel-60%25-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-60%25-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-80%25-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-40%25-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-60%25-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://progress-bar.xyz/60/?title=Excel&width=180&color=217346&suffix=%25"/><br/>
+<img src="https://progress-bar.xyz/60/?title=SQL&width=180&color=4479A1&suffix=%25"/><br/>
+<img src="https://progress-bar.xyz/80/?title=SQLite&width=180&color=003B57&suffix=%25"/><br/>
+<img src="https://progress-bar.xyz/40/?title=Python&width=180&color=3776AB&suffix=%25"/><br/>
+<img src="https://progress-bar.xyz/60/?title=Power+BI&width=180&color=F2C811&suffix=%25"/>
 
 **Mobile Development**
 <br/>
-<img src="https://img.shields.io/badge/Kotlin-40%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Development-80%25-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://progress-bar.xyz/40/?title=Kotlin&width=180&color=7F52FF&suffix=%25"/><br/>
+<img src="https://progress-bar.xyz/80/?title=Android+Dev&width=180&color=3DDC84&suffix=%25"/>
 
 **AI & Automation**
 <br/>
-<img src="https://img.shields.io/badge/Telegram%20Bots-60%25-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-60%25-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://progress-bar.xyz/60/?title=Telegram+Bots&width=180&color=26A5E4&suffix=%25"/><br/>
+<img src="https://progress-bar.xyz/60/?title=AI+Agents&width=180&color=412991&suffix=%25"/>
 
 **Mobile Software**
 <br/>
-<img src="https://img.shields.io/badge/Troubleshooting-80%25-555555?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bootloader%20Procedures-80%25-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://progress-bar.xyz/80/?title=Troubleshooting&width=180&color=555555&suffix=%25"/><br/>
+<img src="https://progress-bar.xyz/80/?title=Bootloader&width=180&color=3DDC84&suffix=%25"/>
 
 ---
 
@@ -140,7 +140,7 @@ Git, GitHub, Linux, Docker, VS Code and clean-code practices.
 <tr>
 <td width="100%" valign="top">
 
-### 📖 Rqeem — Quran Android App
+###  Rqeem — Quran Android App
 
 <img src="assets/rqeem-icon.jpg" width="56" height="56" align="left" style="margin-right:12px;border-radius:12px"/>
 
@@ -161,7 +161,7 @@ An Android Quran application (Kotlin) with Mushaf page rendering, audio playback
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 <p align="center">
 <img src="https://img.shields.io/badge/Advanced%20Android%20Development-0D1117?style=for-the-badge" alt="Advanced Android Development"/>
@@ -173,19 +173,9 @@ An Android Quran application (Kotlin) with Mushaf page rendering, audio playback
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
-<div align="center">
 
-**📊 GitHub Statistics**
-<br/>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=islambadawi0&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub statistics"/>
-
-**🗂️ Top Languages**
-<br/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islambadawi0&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top languages"/>
-
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=islambadawi0&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
@@ -193,14 +183,14 @@ An Android Quran application (Kotlin) with Mushaf page rendering, audio playback
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <div align="center">
 <a href="https://www.linkedin.com/in/islam-badawi-2096403b7/"><img src="https://img.shields.io/badge/LinkedIn-Islam%20Badawi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:albdywy4@gmail.com"><img src="https://img.shields.io/badge/Email-albdywy4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/islambadawi0"><img src="https://img.shields.io/badge/GitHub-islambadawi0-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://islambadawiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-islambadawiportfolio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://wa.me/201115362788"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://wa.me/201140794966"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://t.me/islamabnbadawi"><img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://www.facebook.com/share/17rFNP1Awu/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </div>
@@ -209,7 +199,7 @@ An Android Quran application (Kotlin) with Mushaf page rendering, audio playback
 
 <div align="center">
 
-### Building. Learning. Improving. 🚀
+### Building. Learning. Improving. 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:050B14&height=110&section=footer" width="100%" alt="Footer"/>
 
