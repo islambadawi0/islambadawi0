@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,45:0D1117,100:2563EB&height=220&section=header&text=Islam%20Badawi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Android%20Development%20%7C%20Data%20Analysis%20%7C%20Artificial%20Intelligence&descAlignY=57&descSize=17" width="100%" alt="Islam Badawi banner"/>
+<img src="assets/hero-banner.png" width="100%" alt="Islam Badawi banner"/>
 
 # Islam Badawi 👋
 
@@ -21,13 +21,20 @@ Building practical digital solutions through **mobile development, data analysis
 
 ## 👨‍💻 About Me
 
-I'm **Islam Badawi**, a developer focused on turning ideas into practical digital products.
+Hi! I'm **Islam Badawi**, a developer who loves turning ideas into real solutions. I'm focused on mobile development, data analysis, and artificial intelligence, and I'm always eager to learn new technologies and improve my skills.
 
-- 📱 Building Android applications with modern development tools.
-- 📊 Exploring data analysis, visualization, and data-driven problem solving.
-- 🤖 Learning and experimenting with artificial intelligence and automation.
-- 🧠 Interested in clean architecture, practical solutions, and continuous learning.
-- 🚀 Building projects that combine software, data, and AI.
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="42"><img src="assets/icon-android.png" width="36" height="36"/></td>
+<td valign="middle"><b>Android Development</b><br/><sub>Build mobile apps</sub></td>
+<td width="42"><img src="assets/icon-data.png" width="36" height="36"/></td>
+<td valign="middle"><b>Data Analysis</b><br/><sub>Turn data into insights</sub></td>
+<td width="42"><img src="assets/icon-ai.png" width="36" height="36"/></td>
+<td valign="middle"><b>Artificial Intelligence</b><br/><sub>Build smart solutions</sub></td>
+<td width="42"><img src="assets/icon-problem.png" width="36" height="36"/></td>
+<td valign="middle"><b>Problem Solving</b><br/><sub>Find better ways</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -71,11 +78,16 @@ Git, GitHub, Linux, Docker, VS Code and clean-code practices.
 ## 🧰 Tech Stack
 
 ### 📱 Mobile Development
-<p><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,jetpackcompose,java,sqlite&theme=dark" alt="Android technologies"/></p>
+<p><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,sqlite&theme=dark" alt="Android technologies"/></p>
+<p>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+</p>
 
 ### 📊 Data Analysis
-<p><img src="https://skillicons.dev/icons?i=python,pandas,numpy,postgres,mysql&theme=dark" alt="Data technologies"/></p>
+<p><img src="https://skillicons.dev/icons?i=py,postgres,mysql&theme=dark" alt="Data technologies"/></p>
 <p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
@@ -93,46 +105,53 @@ Git, GitHub, Linux, Docker, VS Code and clean-code practices.
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Skills & Levels
+
+<sub>Self-assessed levels, updated as I complete more projects — not a certification.</sub>
+
+**Data & Databases**
+<br/>
+<img src="https://img.shields.io/badge/Excel-60%25-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-60%25-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-80%25-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-40%25-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-60%25-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+**Mobile Development**
+<br/>
+<img src="https://img.shields.io/badge/Kotlin-40%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Development-80%25-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+
+**AI & Automation**
+<br/>
+<img src="https://img.shields.io/badge/Telegram%20Bots-60%25-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-60%25-412991?style=flat-square&logo=openai&logoColor=white"/>
+
+**Mobile Software**
+<br/>
+<img src="https://img.shields.io/badge/Troubleshooting-80%25-555555?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bootloader%20Procedures-80%25-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+
+---
+
+## 🚀 Featured Project
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 📊 Pandas-
+### 📖 Rqeem — Quran Android App
 
-Data analysis and visualization experiments using Python and Pandas.
+<img src="assets/rqeem-icon.jpg" width="56" height="56" align="left" style="margin-right:12px;border-radius:12px"/>
 
-<a href="https://github.com/islambadawi0/Pandas-"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Pandas repository"/></a>
+An Android Quran application (Kotlin) with Mushaf page rendering, audio playback, athkar, and prayer times.
+<br clear="left"/>
 
-</td>
-<td width="50%" valign="top">
-
-### 📖 Rqeem_project
-
-An Android project focused on building a modern mobile experience.
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 
 <a href="https://github.com/islambadawi0/Rqeem_project"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Rqeem repository"/></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 my-apps-mods
-
-Android applications, experiments, modifications and mobile development work.
-
-<a href="https://github.com/islambadawi0/my-apps-mods"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Mobile repository"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 islam-badawi-dyfallah
-
-Personal projects, experiments and development work.
-
-<a href="https://github.com/islambadawi0/islam-badawi-dyfallah"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Personal repository"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.rqeem"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
 
 </td>
 </tr>
@@ -158,8 +177,13 @@ Personal projects, experiments and development work.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=islambadawi0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islambadawi0&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
+**📊 GitHub Statistics**
+<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=islambadawi0&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub statistics"/>
+
+**🗂️ Top Languages**
+<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islambadawi0&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Top languages"/>
 
 </div>
 
@@ -176,7 +200,6 @@ Personal projects, experiments and development work.
 <a href="mailto:albdywy4@gmail.com"><img src="https://img.shields.io/badge/Email-albdywy4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/islambadawi0"><img src="https://img.shields.io/badge/GitHub-islambadawi0-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://islambadawiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-islambadawiportfolio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/islam-badawi-2096403b7/"><img src="https://img.shields.io/badge/LinkedIn-Islam%20Badawi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://wa.me/201115362788"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://t.me/islamabnbadawi"><img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://www.facebook.com/share/17rFNP1Awu/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
