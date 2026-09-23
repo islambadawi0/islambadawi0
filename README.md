@@ -12,6 +12,7 @@ Building practical digital solutions through **mobile development, data analysis
 <a href="https://github.com/islambadawi0"><img src="https://img.shields.io/badge/GitHub-islambadawi0-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/islam-badawi-2096403b7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 <a href="mailto:albdywy4@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://islambadawiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 </div>
@@ -174,6 +175,11 @@ Personal projects, experiments and development work.
 <a href="https://www.linkedin.com/in/islam-badawi-2096403b7/"><img src="https://img.shields.io/badge/LinkedIn-Islam%20Badawi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:albdywy4@gmail.com"><img src="https://img.shields.io/badge/Email-albdywy4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/islambadawi0"><img src="https://img.shields.io/badge/GitHub-islambadawi0-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://islambadawiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-islambadawiportfolio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/islam-badawi-2096403b7/"><img src="https://img.shields.io/badge/LinkedIn-Islam%20Badawi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://wa.me/201115362788"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://t.me/islamabnbadawi"><img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://www.facebook.com/share/17rFNP1Awu/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </div>
 
 ---
